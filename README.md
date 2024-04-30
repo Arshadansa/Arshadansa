@@ -1,11 +1,10 @@
-
 ![Header](https://res.cloudinary.com/dcn6fqcdd/image/upload/v1714454500/zxyrvxvwba50rbfm7rq7.png)
 <h1 align="center">Hi 👋, I'm Arshad Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshadansa&label=Profile%20views&color=0e75b6&style=flat" alt="arshadansa" /> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Js**
 
 - 💬 Ask me about **React ,Gsap , FramerMotion**
 
