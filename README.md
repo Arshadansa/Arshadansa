@@ -16,11 +16,11 @@
 ---
 
 ## 🚀 About Me
-
-- 🌱 Currently learning **React.js**
-- 💬 Ask me about **React, GSAP, Framer Motion**
-- 📫 arshadans10@gmail.com
-- ⚡ Love building modern UI experiences
+- Full Stack Developer with **2+ years building scalable web applications**  
+- Skilled in **React, Next.js, Java Spring Boot, Node.js & REST APIs**  
+- Delivered **12+ production-grade projects**  
+- Focused on **scalable systems, performance and modern UI engineering**  
+- 📫 **arshadans10@gmail.com**
 
 ---
 
@@ -37,13 +37,14 @@
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 width="45"/>
 </a>
-
+</p>
+</br>
 <a href="https://linkedin.com/in/arshad-ansari-17993a1a8">
 <img
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 width="45"/>
 </a>
-
+</br>
 <a href="https://instagram.com/codevoid.official">
 <img
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
