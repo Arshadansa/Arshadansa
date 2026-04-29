@@ -64,14 +64,7 @@
 
 </p>
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arshadansa&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arshadansa&theme=tokyonight" height="180"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshadansa&layout=compact&theme=tokyonight"  height="180"/>
-
-</p>
 
 ## ✨ Quote
 > Code with purpose. Build with impact.
