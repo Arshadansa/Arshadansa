@@ -28,7 +28,7 @@ src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gi
 <a href="https://twitter.com/atifans07571012" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"/>
 </a>
-
+</br>
 <a href="https://linkedin.com/in/arshad-ansari-17993a1a8" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
