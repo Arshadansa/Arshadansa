@@ -42,7 +42,7 @@ src="https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gi
 
 ## 💻 Tech Stack
 
-<p align="left">
+<p align="right">
 
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
