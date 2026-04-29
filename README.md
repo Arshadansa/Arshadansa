@@ -1,5 +1,5 @@
 
-<img src="https://res.cloudinary.com/dxziq8zr8/image/upload/v1777465416/github_pw1fns.png" width="100%"  alt="banner"/>
+<img src="https://res.cloudinary.com/dxziq8zr8/image/upload/v1777465416/github_pw1fns.png" width="100%" height="250" alt="banner"/>
 
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
